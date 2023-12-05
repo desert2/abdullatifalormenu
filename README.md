@@ -1,18 +1,18 @@
 # ABDUL-LATIF ALORMENU
 
 ### CORE COMPETENCIES
-• Written and verbal communication
-• Remote support
-• Microsoft Azure
-• Microsoft Office
-• Critical Thinking
-• Teamwork
-• Problem-solving
-• Strong troubleshooting skills
-• Knowledge of operating systems
-• Knowledge of infrastructure services
-• Knowledge of networking services
-• IT security knowledge
+- Written and verbal communication
+- Remote support
+- Microsoft Azure
+- Microsoft Office
+- Critical Thinking
+- Teamwork
+- Problem-solving
+- Strong troubleshooting skills
+- Knowledge of operating systems
+- Knowledge of infrastructure services
+- Knowledge of networking services
+- IT security knowledge
 ### WORK EXPERIENCE
 Kingdom Books and Stationery | IT Support Technician
 January 2022 – Present, Accra
